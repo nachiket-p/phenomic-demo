@@ -1,5 +1,9 @@
 {
-  "name": "phenomic-test",
+  "name": "phenomic-demo",
+  "author": {
+    "email": "patel.nachiket.r@gmail.com",
+    "name": "Nachiket Patel"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
